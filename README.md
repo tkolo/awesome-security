@@ -142,7 +142,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Anti-Spam
 - [SpamAssassin](https://spamassassin.apache.org/) - A powerful and popular email spam filter employing a variety of detection technique.
-
+- [Rspamd](https://rspamd.com/) - Fast, free and open-source spam filtering system.
 
 ### Docker Images for Penetration Testing & Security
 - `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
